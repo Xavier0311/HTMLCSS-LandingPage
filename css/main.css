@@ -27,7 +27,7 @@ section {
 .space-between {
   justify-content: space-between;
 }
-.bnt {
+.btn {
   cursor: pointer;
   border: none;
   padding: 6px 12px 6px 12px;
