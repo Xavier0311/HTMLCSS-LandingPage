@@ -2,6 +2,21 @@
 * {
   box-sizing: border-box;
 }
+.btn {
+    cursor: pointer;
+    border: none;
+    padding: 6px 12px;
+    line-height: 1.4;
+  }
+  .btn-default {
+    color: white;
+    background-color: #faa541;
+  }
+  .btn-primary {
+    color: white;
+    background-color: #364147;
+  }
+
 .container {
   margin: 0 auto 0 auto;
   max-width: 1170px;
@@ -27,7 +42,12 @@ section {
 .space-between {
   justify-content: space-between;
 }
-.btn {cursor: pointer;border: none;padding: 6px 12px;line-height: 1.4;}
+.btn {
+  cursor: pointer;
+  border: none;
+  padding: 6px 12px;
+  line-height: 1.4;
+}
 .btn-default {
   color: white;
   background-color: #faa541;
