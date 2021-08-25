@@ -79,24 +79,24 @@ section {
   padding: 6px 12px;
   border: 1px solid #a0a0a0;
 }
-.search-button{
-    background-color: #a0a0a0;
-    color: #ffffff;
-    width: 100px;
-    height: 30px;
-    border: 0;
-    padding: 0;
+.search-button {
+  background-color: #a0a0a0;
+  color: #ffffff;
+  width: 100px;
+  height: 30px;
+  border: 0;
+  padding: 0;
 }
-.nav-list{
-    padding-left: 0;
-    padding-top: 10px;
-    width: 575px;
+.nav-list {
+  padding-left: 0;
+  margin-top: 10px;
+  width: 575px;
 }
 .nav-list li a {
-    font-size: 16px;
-    font-variant: uppercase;
-    font-weight: 700px;
-    line-height: 0.2px;
+  font-size: 16px;
+  font-variant: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.2px;
 }
 body {
   font-family: "Open Sans", sans-serif;
