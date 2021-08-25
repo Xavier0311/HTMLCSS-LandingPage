@@ -92,6 +92,12 @@ section {
     padding-top: 10px;
     width: 575px;
 }
+.nav-list li a {
+    font-size: 16px;
+    font-variant: uppercase;
+    font-weight: 700px;
+    line-height: 0.2px;
+}
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
