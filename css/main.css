@@ -107,17 +107,38 @@ section {
   color: #364147;
   font-size: 18px;
 }
-.account a{
-    font-size: 14px;
+.account a {
+  font-size: 14px;
 }
-.profile-pic{
-    width: 60px;
-    height: 60px;
+.profile-pic {
+  width: 60px;
+  height: 60px;
 }
-.profile-pic img{
-    border-radius: 100px;
-    max-width: 100%;
+.profile-pic img {
+  border-radius: 100px;
+  max-width: 100%;
 }
+.hero {
+  background-image: "~/img/hero.jpg";
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  text-transform: uppercase;
+}
+.hero div h1 {
+  position: relative;
+  left: -30px;
+}
+.hero div h2 {
+  color: #faa541;
+}
+.hero div h1,
+h2 {
+  font-size: 63px;
+  font-weight: 700;
+  line-height: 0.9;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
