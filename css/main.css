@@ -87,6 +87,11 @@ section {
     border: 0;
     padding: 0;
 }
+.nav-list{
+    padding-left: 0;
+    padding-top: 10px;
+    width: 575px;
+}
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
